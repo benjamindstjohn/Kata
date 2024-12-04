@@ -1,10 +1,10 @@
-# Weather Comparison App
+# Weather API App
 
-A Python application that allows users to fetch and compare weather data for one or two cities. The app provides detailed weather information such as temperature, wind speed, coordinates, and a description of the weather. It also highlights the differences between the two cities when both are provided.
+A Python application that allows users to fetch and compare weather data for one or two locations. The app provides temperature, wind speed, coordinates, and a description of the weather. It also provides the differences between the locations when two locations are provided.
 
 ## Features
 
-- Fetch weather data for one or two cities.
+- Fetch weather data for one or two locations.
 - Compare weather information (temperature, wind speed, latitude, and longitude).
 - Display differences in measurable attributes between two cities.
 - Modern and user-friendly graphical interface built with Tkinter.
@@ -23,9 +23,9 @@ A Python application that allows users to fetch and compare weather data for one
    ```
 3. Run the script using:
    ```bash
-   python weather_app.py
+   python weather.py
    ```
-4. Enter one or two city names in the input fields.
+4. Enter one or two location names in the input fields.
 5. Click **"Get Weather"** to display the results.
 
 ## Example Output
