@@ -6,7 +6,7 @@ API: https://openweathermap.org/
 """
 Weather Comparison App
 
-This script provides a graphical user interface (GUI) for comparing weather information 
+This script provides a graphical user interface (GUI) using tkinter for comparing weather information 
 between two cities using the OpenWeatherMap API. 
 
 Features:
